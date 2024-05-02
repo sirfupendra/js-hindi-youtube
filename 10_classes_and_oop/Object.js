@@ -1,3 +1,4 @@
+// prototype is a behaviour which find data or property in deep or upto  a last level means upto null or upto complete c drive 
 function multipleBy5(num){
 
     return num*5
